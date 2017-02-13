@@ -1,0 +1,9 @@
+﻿  ANewAlphabet.cpp
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(33): warning C4018: '>': signed/unsigned mismatch
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunch\documents\visual studio 2015\projects\anewalphabet\anewalphabet.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  ANewAlphabet.vcxproj -> C:\Users\Yunch\Documents\Visual Studio 2015\Projects\ANewAlphabet\Debug\ANewAlphabet.exe
+  ANewAlphabet.vcxproj -> C:\Users\Yunch\Documents\Visual Studio 2015\Projects\ANewAlphabet\Debug\ANewAlphabet.pdb (Full PDB)
